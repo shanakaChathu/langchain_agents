@@ -1,0 +1,6 @@
+langchain
+streamlit
+openai 
+arxiv
+wikipedia
+pandas
